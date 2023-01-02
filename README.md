@@ -1,10 +1,10 @@
-# snakat-repository-android
+# android-repository
 
 ## Installation
 1. Add this to your project as a git submodule
 ```sh
 cd ~/sample_app/
-git submodule add https://github.com/khanhbui/snakat-repository-android.git snakat-repository
+git submodule add https://github.com/khanhbui/android-repository.git snakat=repository
 ```
 2. Create a file, named *config.gradle*, which defines sdk versions, target versions and dependencies.
 ```groovy
